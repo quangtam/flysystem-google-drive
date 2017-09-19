@@ -1,11 +1,15 @@
 {
-    "name": "nao-pon/flysystem-google-drive",
+    "name": "quangtam/flysystem-google-drive",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
         {
             "name": "Naoki Sawada",
             "email": "hypweb@gmail.com"
+        },
+        {
+            "name": "Quang Tam",
+            "email": "quangtam.info@gmail.com"
         }
     ],
     "require": {
